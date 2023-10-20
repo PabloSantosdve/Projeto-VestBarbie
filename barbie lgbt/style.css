@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body{
+   background-image: linear-gradient(to top, #AC71FF, #E6DFFF ); 
+} 
+main{
+	background-color: white;
+	border-radius: 10px;
+	box-shadow: 6px 6px 6px;
+}
