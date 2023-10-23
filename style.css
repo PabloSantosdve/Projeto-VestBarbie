@@ -133,9 +133,9 @@ footer a:hover{
 	padding: 5px;
 }
 legend{
-	background-image: linear-gradient(to right, var(--cor4), transparent);
+	background-image: linear-gradient(to right, rgb(233, 135, 228), transparent);
 	color: black;
-	font-size: smaller;
+	font-size: 13px;
 }
 div.video{
 	margin: 0px -20px 30px -20px;
